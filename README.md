@@ -1,17 +1,17 @@
 # CRM System
 
-<img src="https://github.com/ENelyubova/crm-system/blob/master/app.png" width="400">
+<img src="https://github.com/ENelyubova/crm-system/blob/master/app.png">
 
 ## Tech Stack
 
-**Vue 3**
-**Nuxt**
-**TS**
-**Vue Query**
-**VeeValidate**
-**Shadcn**
-**AppWrite**
-**Pinia**
+- **Vue 3**
+- **Nuxt**
+- **TS**
+- **Vue Query**
+- **VeeValidate**
+- **Shadcn**
+- **AppWrite**
+- **Pinia**
 
 ## Project Setup
 
